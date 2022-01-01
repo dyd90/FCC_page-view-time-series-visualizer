@@ -1,6 +1,6 @@
 ### Problem statement below. Project contains Darian's solution to it.
 
-Please find more on FCC website: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
+Please find more on FCC website: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer
 
 ### Assignment
 
